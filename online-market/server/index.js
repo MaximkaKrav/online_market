@@ -16,6 +16,4 @@ const start = async () =>{
 
 
 start()
-
-
-// afs
+хуй
