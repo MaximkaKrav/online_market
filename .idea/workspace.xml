@@ -6,14 +6,30 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1399c7d6-6b2e-41fa-b92e-2fdd007f061e" name="Default Changelist" comment="Test">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/online-market.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/models.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online-market/server/.env" beforeDir="false" afterPath="$PROJECT_DIR$/online-market/server/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online-market/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/online-market/server/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +37,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2E7ZBQJ2iSCcNImWQfKZOTqWc67" />
@@ -46,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661948447421</updated>
-      <workItem from="1661948448600" duration="1556000" />
+      <workItem from="1661948448600" duration="1020000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1661948972453</created>
@@ -55,14 +76,7 @@
       <option name="project" value="LOCAL" />
       <updated>1661948972453</updated>
     </task>
-    <task id="LOCAL-00002" summary="Test">
-      <created>1661955347876</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1661955347876</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +92,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
@@ -88,9 +103,13 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1700" y="295" key="FileChooserDialogImpl/0.0.2560.1080@0.0.2560.1080" timestamp="1661948499745" />
-    <state x="957" y="130" key="Vcs.Push.Dialog.v2" timestamp="1661955368464">
+    <state x="957" y="130" key="Vcs.Push.Dialog.v2" timestamp="1661948979680">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="957" y="130" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1661955368464" />
+    <state x="957" y="130" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1661948979680" />
+    <state x="1097" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1662024358612">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1097" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080@0.0.2560.1080" timestamp="1662024358612" />
   </component>
 </project>
